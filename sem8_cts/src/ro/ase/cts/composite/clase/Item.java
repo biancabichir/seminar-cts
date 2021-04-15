@@ -1,4 +1,6 @@
-package ro.ase.cts.clase;
+package ro.ase.cts.composite.clase;
+
+import ro.ase.cts.composite.clase.ComponentaAbstracta;
 
 public class Item implements ComponentaAbstracta{
 	private String nume;
